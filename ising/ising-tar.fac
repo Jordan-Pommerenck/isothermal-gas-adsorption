@@ -1,8 +1,0 @@
-| tar czvf ising-upload.tar.gz ising.tex ising-body.tex ising.bbl gamma-n32.pdf gamma-n128.pdf N32-Cv-error-default.pdf N128-Cv-error-default.pdf N32-Cv.pdf
-< ising.pdf
-< gamma-n32.pdf
-< gamma-n128.pdf
-< N32-Cv-error-default.pdf
-< N128-Cv-error-default.pdf
-< N32-Cv.pdf
-> ising-upload.tar.gz

@@ -1,7 +1,0 @@
-#!/bin/bash
-
-set -ev
-
-git pull git@github.com:Jordan-Pommerenck/thesis-pommerenck
-git pull git@github.com:droundy/thesis-pommerenck
-
